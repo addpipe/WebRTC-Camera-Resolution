@@ -337,6 +337,12 @@ const quickScan = [
         "ratio": "16:9"
     },
     {
+        "label": "400by300",
+        "width": 400,
+        "height": 300,
+        "ratio": "4:3"
+    },
+    {
         "label": "CIF",
         "width": 352,
         "height": 288,
