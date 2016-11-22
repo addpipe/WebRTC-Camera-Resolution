@@ -337,7 +337,7 @@ const quickScan = [
         "ratio": "16:9"
     },
     {
-        "label": "400by300",
+        "label": "300p",
         "width": 400,
         "height": 300,
         "ratio": "4:3"
